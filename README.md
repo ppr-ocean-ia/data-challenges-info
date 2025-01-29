@@ -1,6 +1,9 @@
 # data-challenges-info
-This repository is intended to disseminate information about the Data Challenges of the Ocean and Climate project.
-Each folder contains information about a particular data challenge :
+This repository is intended to disseminate information about the Data Challenges of the "AI & Ocean" initiative from the "Ocean and Climate" project.
+
+The file [**action_AI_PPROcean_202501.pdf**](./action_AI_PPROcean_202501.pdf) contains a description of the "AI & Ocean" initiative.
+
+Each subfolder contains information about a particular data challenge :
 
 ## DC1
 "Emulation of Global Ocean Reanalyses" Data Challenge
