@@ -1,6 +1,7 @@
 # data-challenges-info
 This repository is intended to disseminate information about the Data Challenges of the "AI & Ocean" initiative from the "Ocean and Climate" project.
 Additional information:
+- **Associated "PPR Océan & Climat" webpage**: [**link**](https://www.ocean-climat.fr/Le-PPR/Actualites/Appel-a-projet-postdoctoral-AI-native-approaches-for-ocean-modeling-forecasting-and-monitoring)
 - **Description of the "AI & Ocean" initiative**: [**action_AI_PPROcean_202501.pdf**](./action_AI_PPROcean_202501.pdf)
 - **Call for postdoctoral felowwships, including the submission templates**: [**pdf version**](./AAP_PostDoc_IAOcean_VF.pdf), [**docx version**](./AAP_PostDoc_IAOcean_VF.docx)
 
